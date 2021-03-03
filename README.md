@@ -1,1 +1,1 @@
-Child theme of Boost
+Child theme of Edwiser
